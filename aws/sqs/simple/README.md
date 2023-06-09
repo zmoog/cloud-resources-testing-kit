@@ -6,7 +6,6 @@
 export TF_VAR_owner="mbranca"
 
 terraform init 
-terraform plan
 terraform apply
 ```
 
